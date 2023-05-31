@@ -3,6 +3,9 @@
 #define WINDOW_HEIGHT 22
 #define AND &&
 #define OR ||
+#define S_SPACE "     "
+#define M_SPACE S_SPACE S_SPACE
+#define L_SPACE S_SPACE S_SPACE S_SPACE
 
 string about_select(int num) {
     string about9  = " This typing Game project is ";
@@ -52,8 +55,10 @@ int about()
                     else if( (i>=9 AND i<=14) AND j==(WINDOW_WIDTH/3) )
                     {
                         BLUE_BG cout<<"  ";
-                        WHITE_BG RED_FG cout<<"    ";
-                        cout<<about_select(i); cout<<"    ";
+                        WHITE_BG RED_FG cout<<"      ";
+                        cout<<L_SPACE<<M_SPACE<<M_SPACE;
+                        cout<<about_select(i);
+                        cout<<L_SPACE<<M_SPACE<<M_SPACE<<"    ";
                         BLACK_FG BLUE_BG cout<<"  ";
                         BLACK_BG
                     }
