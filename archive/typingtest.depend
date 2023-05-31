@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622116816 source:c:\users\polaris\downloads\0. typing speedtest\typingtest\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<string>
+	<math.h>
+	<windows.h>
+	"asciiart.h"
+
+1622116785 c:\users\polaris\downloads\0. typing speedtest\typingtest\asciiart.h
+	<iostream>
+	<string>
+
