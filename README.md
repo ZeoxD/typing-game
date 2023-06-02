@@ -5,3 +5,4 @@ Typing Game project made using C++. It takes in user input to caculate the user 
 Typing game works in Windows only as it uses WIN32 color library.
 
 ### Demo
+{./Capture.PNG}
