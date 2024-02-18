@@ -5,10 +5,8 @@ Typing Game project made using C++. It takes in user input to caculate the user 
 Typing game works in Windows only as it uses WIN32 color library.
 
 ### Demo
-<img align="center" src="https://github.com/ZeoxD/typing-game/blob/main/Capture.PNG" alt="Typing Game" height="" width="" /></a>
-<br/>
+<a><img align="center" src="https://github.com/ZeoxD/typing-game/blob/main/Capture.PNG" alt="Typing Game" /></a>
 
-<img align="center" src="https://github.com/ZeoxD/typing-game/blob/main/Capture1.PNG" alt="Typing Game" height="" width="" /></a>
-<br/>
+<a><img align="center" src="https://github.com/ZeoxD/typing-game/blob/main/Capture1.PNG" alt="Typing Game" /></a>
 
-<img align="center" src="https://github.com/ZeoxD/typing-game/blob/main/Capture3.PNG" alt="Typing Game" height="" width="" /></a>
+<a><img align="center" src="https://github.com/ZeoxD/typing-game/blob/main/Capture3.PNG" alt="Typing Game" /></a>
